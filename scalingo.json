@@ -3,7 +3,7 @@
     "description": "• تنصيب سـورس ريبـــثون مجاناً علـى منصـة سكـالينجـو • افضـل سـورسـات يـوزربـوت العربيـة",
     "addons": ["scalingo-postgresql"],
     "keywords": ["python","ai","application","web","gunicorn","flask","scalingo","port:8080","flask-app"],
-    "repository": "https://github.com/Repthon-Arabic/Scalingo",
+    "repository": "https://github.com/Repthon-Arabic/B",
     "logo": "https://graph.org/file/5d3e657e910057f03a8aa.jpg",
     "stack": "container",
     "env": {
