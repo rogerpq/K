@@ -5,7 +5,7 @@
     "addons": ["scalingo-postgresql"],
     "keywords": ["python","ai","application","web","gunicorn","flask","scalingo","port:8080","flask-app","app","webapp"],
     "repository": "https://github.com/Repthon-Arabic/B",
-    "website": "https://baqir.flask.esay.scalingo.io",
+    "website": "https://baqir-flask.scalingo.io",
     "stack": "container",
     "env": {
         "STRING_SESSION": {
